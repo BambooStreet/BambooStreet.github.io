@@ -2,7 +2,7 @@ title:              BambooStreet
 email:              your-email@example.com
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
-baseurl:            "/BambooStreet.github.io"
+baseurl:            "/"
 url:                "https://BambooStreet.github.io"
 
 # Social Profiles
